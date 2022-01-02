@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor O. Vento
-- 👀 I’m interested in Python and Javascript back-end development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Javascript back-end development
+- 🌱 I’m currently learning express
 - 📫 victorovento@icloud.com
 
 <!---
