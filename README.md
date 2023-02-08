@@ -6,5 +6,4 @@ Welcome to my profile!<br/>
 I'm Víctor - a 22 year old software engineer!
 
 - 🎓 Studied Computer Science Engineering at University of Pinar del Río, Cuba
-- cu Cuban
 - ⚽🏎 Interested in all things soccer & motorsport
