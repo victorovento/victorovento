@@ -36,11 +36,6 @@
   - **Test:** `Apache` • `Jmeter`• `Unit Test`
   - **Project management:** `Notion` • `Jira` • `Trello`
 
-<!--Github Stats-->
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorovento" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorovento"/>
-</p>
 
 #### How to get in touch with me?
 
