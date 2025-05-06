@@ -10,7 +10,7 @@
 #### Who I am?
 
 - A Software Developer based in **[Miami](https://en.wikipedia.org/wiki/Miami), [Florida](https://en.wikipedia.org/wiki/Florida).**
-- Have 5 years of hands-on experience in **Backend Development, Javascript ecosystem.**
+- Have years of hands-on experience in **Backend Development, Javascript ecosystem.**
 - Visit my portfolio at **https://victorvento.net**
 
 #### What I'm doing?
