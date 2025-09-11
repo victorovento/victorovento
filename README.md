@@ -1,15 +1,14 @@
-<!--
 [website]: https://victorvento.net
 [linkedin]: https://www.linkedin.com/in/vvento
 [twitter]: https://twitter.com/victorovento
 [leetcode]: https://leetcode.com/victorovento
-[email]: victorovento@icloud.com -->
+[email]: victorovento@icloud.com
 
 ### Hi there 👋!
 
 #### Who I am?
 
-- A Software Developer based in **[Miami](https://en.wikipedia.org/wiki/Miami), [Florida](https://en.wikipedia.org/wiki/Florida).**
+- A Software Developer based in **[Palm Bay](https://en.wikipedia.org/wiki/Palm_Bay), [Florida](https://en.wikipedia.org/wiki/Florida).**
 - Have years of hands-on experience in **Backend Development, Javascript ecosystem.**
 - Visit my portfolio at **https://victorvento.net**
 
